@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Bingo-App
+          This is Bingo-App
         </a>
       </header>
     </div>
